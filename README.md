@@ -1,1 +1,3 @@
-# Simple Django Blog
+# Django
+
+## A Simple Django Blog
