@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'heroku',
     'website.apps.WebsiteConfig',
     'users.apps.UsersConfig',
     'crispy_forms',
