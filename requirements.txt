@@ -9,3 +9,4 @@ requests==2.19.1
 urllib3==1.23
 django_heroku==0.3.1
 gunicorn==19.0.0
+django-crispy-forms==1.9.0
