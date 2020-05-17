@@ -24,7 +24,7 @@ SECRET_KEY = '5w2r&pi0cclm%=oek#%rw7t93sx7%@*li66%1i&hq(6dw^78#('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'thedjango.netlify.app', 'esau-morais.github.io/Django']
+ALLOWED_HOSTS = ['127.0.0.1', 'thedjango.herokuapp.com']
 
 
 # Application definition
